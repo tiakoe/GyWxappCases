@@ -88,6 +88,7 @@
 }
 
 .view10 {
+    /* 通过'transform'属性将二维变换应用于元素。此属性包含与SVG允许的转换函数类似的转换函数列表。 */
     transform:matrix(0.866,0.5,-0.5,0.866,0,0);
     background-color: slategray
     

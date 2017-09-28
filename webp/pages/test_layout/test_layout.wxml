@@ -1,0 +1,18 @@
+<!--test_layout.wxml-->
+<view class="container">
+    <view class="out">
+        out
+        <!-- <view class="mid">
+             mid
+            <view class="in">
+                in
+            </view>
+        </view> -->
+    </view>
+    <view class="out2">
+        out2
+    </view>
+    <view class="out3">
+        out3
+    </view>
+</view>

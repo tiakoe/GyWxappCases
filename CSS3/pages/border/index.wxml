@@ -2,8 +2,8 @@
     <view class="page">
         <view class="page__hd">
             <text class="page__title">CSS3 Border</text>
-            <text class="page__desc"></text>
-            <text class="page__output"></text>
+            <text class="page__desc">desc</text>
+            <text class="page__output">output</text>
         </view>
         <view class="page__bd">
             <view>
@@ -20,7 +20,6 @@
                 <view class="view view21">
                 </view>
                 <view class="view view31">
-
                 </view>
             </view>
 

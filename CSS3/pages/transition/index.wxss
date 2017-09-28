@@ -84,6 +84,7 @@
     margin: 20px;
     background-color: cornflowerblue;
     transition:width 2s;
+    /* 描述如何计算转换期间使用的中间值。 */
     transition-timing-function:ease-in;
 }
 

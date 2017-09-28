@@ -19,16 +19,16 @@
                 <view class="view view4">
                     你好，这是一个 view 元素。
                 </view>
-                <view class="view5">
+                <view class="view5">view5
                     <view class="view6">
-                        ROTATE
+                        ROTATE  view6
                     </view>
                 </view>
-                <view class="view7">
+                <view class="view7">view7
                     <view class="view8">
-                        PRESERVE-3D
+                        PRESERVE-3D  view8
                         <view class="view9">
-                            ROTATE
+                            ROTATE  view9
                         </view>
                     </view>
                 </view>

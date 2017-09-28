@@ -10,6 +10,7 @@ Page({
     },
 
     onLoad: function () {
+        
         var banners= [{
             id: 1,
             title: "春残",

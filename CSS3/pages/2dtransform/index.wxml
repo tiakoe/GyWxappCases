@@ -7,35 +7,35 @@
         </view>
         <view class="page__bd">
             <view class="view view1">
-                你好，这是一个 view 元素。
+                你好，这是一个 view1 元素。
             </view>
             <view class="view view2">
-                你好，这是一个 view 元素。
+                你好，这是一个 view2 元素。
             </view>
             <view class="view view3">
-                你好，这是一个 view 元素。
+                你好，这是一个 view3 元素。
             </view>
             <view class="view view4">
-                你好，这是一个 view 元素。
+                你好，这是一个 view4 元素。
             </view>
 
             <view class="view view5">
-                你好，这是一个 view 元素。
+                你好，这是一个 view5 元素。
             </view>
             <view class="view view6">
-                你好，这是一个 view 元素。
+                你好，这是一个 view6 元素。
             </view>
             <view class="view view7">
-                你好，这是一个 view 元素。
+                你好，这是一个 view7 元素。
             </view>
             <view class="view view8">
-                你好，这是一个 view 元素。
+                你好，这是一个 view8 元素。
             </view>
             <view class="view view9">
-                你好，这是一个 view 元素。
+                你好，这是一个 view9 元素。
             </view>
             <view class="view view10">
-                你好，这是一个 view 元素。
+                你好，这是一个 view10 元素。
             </view>
         </view>
 

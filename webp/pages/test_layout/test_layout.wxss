@@ -1,0 +1,47 @@
+/* test_layout.wxss */
+/* 父视图用block，子视图都显示地声明为block，那么可以在父视图
+中根据padding，子视图中margin调整位置 */
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(160, 194, 194);
+    display: flex;
+    flex-direction: column;
+    
+    /*stretch:沿着横向一根线对齐，紧靠该线
+    baseline:和stretch效果一样
+    */
+    /* align-items: flex-start; */
+    /* align-items: flex-start; */
+    /* align-items: initial; */
+    /* align-items: center; */
+    /* justify-content: flex-start; */
+    justify-content: flex-start
+
+    /* justify-content 该属性对column起作用 */
+    /* justify-content: baseline */
+}
+
+.out{
+    width: 100%;
+    height: 50px;
+    background-color: khaki;
+    display: flex;
+
+}
+.out2{
+    width: inherit;
+    height: 60px;  
+    background-color: blue;
+    display: flex;
+}
+.out3{
+    width: inherit;
+    height: 70px;
+    background-color: rgb(45, 161, 65);
+    display: flex;
+}
+
+
+

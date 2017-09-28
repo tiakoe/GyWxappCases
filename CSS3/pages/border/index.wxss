@@ -5,6 +5,7 @@
 
 .page {
     min-height: 100%;
+     /* 指定弹性长度的组件：弹性增长系数和弹性收缩系数以及弹性基础。 */
     flex: 1;
     background-color: #FBF9FE;
     font-size: 16px;
@@ -68,7 +69,8 @@
 }
 
 .view5{
-    border-radius: 15px/50px;
+    /* border-radius: 15px/50px; */
+    border-radius: 50px/70px;
     background: #8AC007; 
 }
 
